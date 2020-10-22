@@ -5,8 +5,8 @@ namespace Akamai_Version_Checker
 {
     class Program
     {
-        const string currentVersion = "1.64";
-        const string discordWebhook = "https://discordapp.com/api/webhooks/764163556173545492/VSDqWrXsfKIMNF-sn0PIvzrI_iGyg31cFCFnR_mEvC6UJ-uV2Kemg2rF3KYEjL73Mxfn";
+        const string currentVersion = "1.65";
+        const string discordWebhook = "";
         const string targetEndpoint = "https://xero.com/";
 
         private static bool isUpdated = false;
