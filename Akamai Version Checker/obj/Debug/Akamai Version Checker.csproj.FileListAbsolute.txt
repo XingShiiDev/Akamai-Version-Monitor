@@ -1,0 +1,9 @@
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\bin\Debug\Akamai Version Checker.exe.config
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\bin\Debug\Akamai Version Checker.exe
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\bin\Debug\Akamai Version Checker.pdb
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\bin\Debug\Leaf.xNet.dll
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\bin\Debug\Leaf.xNet.xml
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\obj\Debug\Akamai Version Checker.csproj.CoreCompileInputs.cache
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\obj\Debug\Akamai Version Checker.csproj.CopyComplete
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\obj\Debug\Akamai Version Checker.exe
+C:\Users\Carter\source\repos\Akamai Version Checker\Akamai Version Checker\obj\Debug\Akamai Version Checker.pdb
